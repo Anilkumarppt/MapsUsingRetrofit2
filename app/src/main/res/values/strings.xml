@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapsUsingRetrofit</string>
+    <string name="title_activity_maps">NearByLocation</string>
+    <string name="google_maps_key">AIzaSyBBss2dnjOzYrNDv5kx0fZsGbrx85jBePI</string>
+</resources>
